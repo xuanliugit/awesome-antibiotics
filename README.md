@@ -3,10 +3,14 @@ license: mit
 ---
 
 Antibiotics:
-* Staphylococcus_aureus
-* Neisseria_gonorrhoeae
+| Name | Ref |
+| -------- | ------- |
+| Staphylococcus_aureus | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
+| Neisseria_gonorrhoeae | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
 
 Cytotoxicity
-* IMR90
-* HSkMC
-* HepG2
+| Name | Ref |
+| -------- | ------- |
+| IMR90 | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
+| HSkMC | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
+| HepG2 | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
