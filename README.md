@@ -22,13 +22,13 @@ configs:
 A collection of datasets about antibiotics for machine learning.
 
 
-Antibiotics:
+## Antibiotics:
 | Name | Ref |
 | -------- | ------- |
 | Staphylococcus_aureus | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
 | Neisseria_gonorrhoeae | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
 
-Cytotoxicity
+## Cytotoxicity:
 | Name | Ref |
 | -------- | ------- |
 | IMR90 | [10.1016/j.cell.2025.07.033](https://doi.org/10.1016/j.cell.2025.07.033) |
