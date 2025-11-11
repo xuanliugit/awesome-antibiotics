@@ -15,9 +15,11 @@ configs:
     path: "HepG2_cytotoxicity_data_39k.csv"
 
 ---
+# AWESOME-ANTIBIOTICS
+
 [![Dataset on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-md.svg)](https://huggingface.co/datasets/xuan-liu/awesome-antibiotics)
 
-A collection of datasets about antibiotics for machine learning studies.
+A collection of datasets about antibiotics for machine learning.
 
 
 Antibiotics:
