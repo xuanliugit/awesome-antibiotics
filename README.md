@@ -1,5 +1,19 @@
 ---
 license: mit
+configs:
+- config_name: default
+  data_files:
+  - split: Staphylococcus_aureus
+    path: "staph_aureus_binarized.csv"
+  - split: Neisseria_gonorrhoeae
+    path: "neisseria_gonorrhoeae_binarized.csv"
+  - split: IMR90
+    path: "IMR90_cytotoxicity_data_39k.csv"
+  - split: HSkMC
+    path: "HSkMC_cytotoxicity_data_39k.csv"
+  - split: HepG2
+    path: "HepG2_cytotoxicity_data_39k.csv"
+
 ---
 
 Antibiotics:
